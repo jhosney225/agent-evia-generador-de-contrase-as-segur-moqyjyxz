@@ -1,0 +1,6 @@
+{
+  "name": "agent-evia-generador-de-contrase-as-segur-moqyjyxz",
+  "version": "1.0.0",
+  "description": "Proyecto de Evia [Gen4]: generador de contraseñas seguras con entropía",
+  "main": "index.js"
+}
